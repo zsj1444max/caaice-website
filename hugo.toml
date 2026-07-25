@@ -1,0 +1,12 @@
+baseURL = "https://www.caaice.org/"
+languageCode = "en-us"
+title = "California–Asia AI & Clean Energy Center"
+theme = "ananke"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  site_logo = ""
+  background_color_class = "bg-black"
+  recent_posts_number = 3
