@@ -47,14 +47,14 @@ principles:
   - title: "Open"
     body: "All research is published free of charge and freely reusable."
 
-team_name: "[YOUR NAME]"
+team_name: "Shujie Zhao"
 team_role: "Founder and Executive Director"
-team_bio: "Cross-border energy lawyer focused on Chinese energy investment and regulatory compliance in Southeast Asia. [ONE LINE OF SPECIFIC EXPERIENCE]. CAAICE is governed by a volunteer Board of Directors under California nonprofit law."
+team_bio: "A cross-border energy lawyer with 23 years of practice in wind and solar project investment, power purchase agreements, and carbon market compliance. Serves as a dual-carbon expert on a professional committee of ICC China. CAAICE is governed by a volunteer Board of Directors under California nonprofit law."
 
 support_title: "Independent research needs independent funding."
 support_body: "Your support funds research, public education and cross-regional dialogue, none of it behind a paywall. Donations are tax-deductible to the extent permitted by law."
 
-address: "[STREET ADDRESS], California [ZIP], United States"
+address: "California, United States"
 email: "info@caaice.org"
-ein: "[YOUR EIN]"
+ein: "30-1482336"
 ---
