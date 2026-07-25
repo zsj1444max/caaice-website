@@ -47,6 +47,7 @@ principles:
   - title: "Open"
     body: "All research is published free of charge and freely reusable."
 
+team_photo: "/founder.jpg"
 team_name: "Shujie Zhao"
 team_role: "Founder and Executive Director"
 team_bio: "A cross-border energy lawyer with 23 years of practice in wind and solar project investment, power purchase agreements, and carbon market compliance. Serves as a dual-carbon expert on a professional committee of ICC China. CAAICE is governed by a volunteer Board of Directors under California nonprofit law."
