@@ -120,7 +120,15 @@ footer a{color:#D9C39A}
 </div></section>
 <section class="sec"><div class="wrap">
 <div class="eyebrow">Who we are</div>
-<div class="bio"><b>{{ .Params.team_name }}</b>, {{ .Params.team_role }}<p>{{ .Params.team_bio }}</p></div>
+<style>
+.bio{display:flex;gap:30px;align-items:flex-start}
+.bio .photo{width:150px;height:150px;border-radius:50%;object-fit:cover;flex-shrink:0}
+@media(max-width:760px){.bio{flex-direction:column;gap:20px}}
+</style>
+<div class="bio">
+{{ with .Params.team_photo }}<img class="photo" src="{{ . }}" alt="{{ $.Params.team_name }}">{{ end }}
+<div><b>{{ .Params.team_name }}</b>, {{ .Params.team_role }}<p>{{ .Params.team_bio }}</p></div>
+</div>
 </div></section>
 <section class="cta"><div class="wrap">
 <h2>{{ .Params.support_title }}</h2>
