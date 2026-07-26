@@ -58,6 +58,8 @@ footer a{color:#D9C39A}
 </ul>
 </div></div></header>
 <main class="wrap"><article class="page">
+{{ with .Date }}{{ if not $.Site.Home.IsHome }}{{ end }}{{ end }}
+{{ if not .Date.IsZero }}<div style="font-size:13px;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;margin-bottom:14px">{{ .Date.Format "2 January 2006" }}</div>{{ end }}
 <h1>{{ .Title }}</h1>
 {{ with .Params.subtitle }}<p class="sub">{{ . }}</p>{{ end }}
 {{ .Content }}
