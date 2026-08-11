@@ -56,6 +56,6 @@ support_title: "Independent research needs independent funding."
 support_body: "Your support funds research, public education and cross-regional dialogue, none of it behind a paywall. "
 
 address: "California, United States"
-email: "info@caaice.org"
+email: "jekezhao@caaice.org"
 ein: "30-1482336"
 ---
