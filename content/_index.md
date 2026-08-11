@@ -3,7 +3,7 @@ title: "California–Asia AI & Clean Energy Center"
 description: "Independent research on how Asia powers its AI infrastructure."
 
 hero_title: "Every watt that powers intelligence should be clean."
-hero_sub: "CAAICE is a California-based 501(c)(3) nonprofit. Through independent research and cross-regional dialogue, we work to ensure that Asia's rapidly expanding AI and data infrastructure is powered by clean electricity."
+hero_sub: "CAAICE is a California nonprofit public benefit corporation. Through independent research and cross-regional dialogue, we work to ensure that Asia's rapidly expanding AI and data infrastructure is powered by clean electricity."
 
 challenge_intro: "Asia is building the physical foundation of the AI era, and deciding right now what will power it. These decisions lock in for decades."
 
@@ -53,7 +53,7 @@ team_role: "Founder and Executive Director"
 team_bio: "A cross-border energy lawyer with 23 years of practice in wind and solar project investment, power purchase agreements, and carbon market compliance. Serves as a dual-carbon expert on a professional committee of ICC China. CAAICE is governed by a volunteer Board of Directors under California nonprofit law."
 
 support_title: "Independent research needs independent funding."
-support_body: "Your support funds research, public education and cross-regional dialogue, none of it behind a paywall. Donations are tax-deductible to the extent permitted by law."
+support_body: "Your support funds research, public education and cross-regional dialogue, none of it behind a paywall. "
 
 address: "California, United States"
 email: "info@caaice.org"
