@@ -4,7 +4,7 @@ subtitle: "Why an organisation like this needs to exist right now."
 description: "CAAICE is an independent nonprofit researching how Asia powers its AI and data infrastructure."
 ---
 
-The California–Asia AI & Clean Energy Center is an independent, non-partisan research organisation based in California. We are a 501(c)(3) nonprofit.
+The California–Asia AI & Clean Energy Center is an independent, non-partisan research organisation based in California and organized as a California nonprofit public benefit corporation.
 
 ## Why we exist
 
@@ -44,8 +44,8 @@ That position is deliberate. California is where much of the technology and capi
 
 ## Governance
 
-CAAICE is governed by a volunteer Board of Directors under California nonprofit law. We are recognised as a tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code, EIN 30-1482336.
+CAAICE is governed by a volunteer Board of Directors under California nonprofit law. CAAICE is organized as a California nonprofit public benefit corporation, EIN 30-1482336.
 
 ## Get in touch
 
-We read everything. Write to [info@caaice.org](mailto:info@caaice.org).
+We read everything. Write to [jekezhao@caaice.org](mailto:jekezhao@caaice.org).
