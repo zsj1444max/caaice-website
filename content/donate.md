@@ -36,11 +36,9 @@ Foundations, universities and research institutions interested in collaboration 
 
 ## Tax information
 
-California–Asia AI & Clean Energy Center is recognised as a tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code.
-
-**EIN: 30-1482336**
-
-Donations are tax-deductible to the extent permitted by law. You can verify our status through the IRS Tax Exempt Organization Search.
+Organization information
+California–Asia AI & Clean Energy Center is organized as a California nonprofit public benefit corporation.
+EIN: 30-1482336
 
 ## Our commitments to you
 
@@ -54,4 +52,4 @@ These are not aspirations. They are the terms on which we accept support.
 
 ## Questions
 
-Write to [info@caaice.org](mailto:info@caaice.org). We answer every message.
+Write to [jekezhao@caaice.org](mailto:jekezhao@caaice.org). We answer every message.
